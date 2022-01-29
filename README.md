@@ -4,7 +4,8 @@ picture-number association task scripted in PsychoPy (python)
 # Directory 
 - config_files_v2, data, stims directories must be in the same directory as AL_v2*.py 
 - config_files_v2: csv files that includes pre-generated stimulus/trial sequence (controlled for stimuli & randomized for each session and subject) 
-- stims: select images from BOSS. Not uploaded here - contact to request. 
+- stims: select images from BOSS. 
+- Images are not uploaded here - available upon request
 
 # Stimuli Control & Resources
 - Image stimuli are selected from Bank of Standardized Stimuli (BOSS) - Brodeur et al., 2010; 2014 
